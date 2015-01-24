@@ -24,6 +24,6 @@ def isIn(char, aStr):
             return isIn(char, aStr[len(aStr)/2+1:])
 
 
-print isIn('k', 'allnqz')
+
 
 
