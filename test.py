@@ -1,8 +1,8 @@
-__author__ = 'suni'
+secretWord = 'valami'
+print('Welcome to the game, Hangman! \nI am thinking of a word that is '+ str(len(secretWord)) +  ' letters long. \n-------------')
 
-aStr = 'valami'
 
-print aStr[1:]
+
 
 
 
